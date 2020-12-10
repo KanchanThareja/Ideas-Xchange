@@ -1,0 +1,21 @@
+.info-text {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+mat-expansion-panel {
+    margin-top: 1rem;
+}
+
+mat-spinner {
+    margin: 0 auto;
+}
+
+.post-image {
+    width: 100%;
+}
+
+.post-image img {
+    width: 30%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
